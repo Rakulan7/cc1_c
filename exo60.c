@@ -19,7 +19,7 @@ int main(int argc, char * argv[]){
     int x = 0;
     int y = 0;
 
-    
+    printf("Check");
 
     printf("first = %d\nsecond = %d\ncoords = (%d, %d)\n", first, second, x, y);
 
